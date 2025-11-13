@@ -1,0 +1,41 @@
+# Dependencias
+node_modules
+npm-debug.log
+
+# Archivos de desarrollo
+*.log
+.env
+.env.local
+.env.*.local
+
+# Archivos de prueba
+coverage
+*.spec.ts
+test
+
+# Archivos de configuración del IDE
+.vscode
+.idea
+*.swp
+*.swo
+*~
+
+# Archivos de git
+.git
+.gitignore
+.gitattributes
+
+# Documentación
+README.md
+*.md
+
+# Archivos de compilación
+dist
+build
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# TypeScript
+*.tsbuildinfo
